@@ -14,7 +14,7 @@ Here you will find a lot of resources for deep learning, such as papers, dataset
      - [2015 - Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
 
 - Semantic segmentation (Medical images)
-    - [2017 - Deep CNN ensembles and suggestive annotations for infant brain MRI segmentation] (https://arxiv.org/pdf/1712.05319.pdf)
+    - [2017 - Deep CNN ensembles and suggestive annotations for infant brain MRI segmentation](https://arxiv.org/pdf/1712.05319.pdf)
     - [2015 - U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 
 ## Datasets
