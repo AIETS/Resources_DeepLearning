@@ -11,6 +11,7 @@ Here you will find a lot of resources for deep learning, such as papers, dataset
 ## Papers
  - Semantic segmentation (Natural images)
      - [2017 - A Review on Deep Learning Techniques Applied to Semantic Segmentation](https://arxiv.org/pdf/1704.06857.pdf)
+     - [2017 - Not all pixels are equal: difficulty-aware semantic segmentation via deep layer cascade](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Not_All_Pixels_CVPR_2017_paper.pdf)
      - [2017 - The one hundred layers tiramisu: Fully convolutional densenets for semantic segmentation](https://arxiv.org/pdf/1611.09326.pdf)
      - [2016 - DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/pdf/1606.00915.pdf)
      - [2016 - Attention to scale: Scale-aware semantic image segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Chen_Attention_to_Scale_CVPR_2016_paper.pdf)
