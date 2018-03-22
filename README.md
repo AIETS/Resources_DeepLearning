@@ -22,16 +22,29 @@ Here you will find a lot of resources for deep learning, such as papers, dataset
 
 - Image classification
     - [2017 - Densely connected convolutional networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf)
+    - [2017 - Inception-v4, inception-resnet and the impact of residual connections on learning](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14806/14311)
+    - [2016 - Wide residual networks](https://arxiv.org/pdf/1605.07146.pdf)
     - [2016 - Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
+    - [2016 - Rethinking the inception architecture for computer vision](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf)
     - [2015 - Spatial pyramid pooling in deep convolutional networks for visual recognition](http://ieeexplore.ieee.org/document/7005506/)
     - [2014 - Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556/)
     - [2012 - ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+
+- Object detection
+    - [2015 - Fast R-CNN](http://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
+    
+- Face detection
+    - [2015 - A convolutional neural network cascade for face detection](http://openaccess.thecvf.com/content_cvpr_2015/papers/Li_A_Convolutional_Neural_2015_CVPR_paper.pdf)
+    
     
 - Action recognition (Videos)
+    - [2016 - Convolutional two-stream network fusion for video action recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Feichtenhofer_Convolutional_Two-Stream_Network_CVPR_2016_paper.pdf)
     - [2014 - Two-Stream Convolutional Networks for Action Recognition in Videos](http://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf)
     - [2013 - 3D convolutional neural networks for human action recognition](http://www.cs.odu.edu/~sji/papers/pdf/Ji_TPAMI2012.pdf)
 
-
+- General
+    - [2017 - Recent advances in convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0031320317304120)
+    
 ## Datasets
 - Natural images:
     - [PascalVOC](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
