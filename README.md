@@ -1,6 +1,6 @@
 # Resources DeepLearning
 
-Here you will find a lot of resources for deep learning, such as papers, datasets, interesting codes,etc..
+Here you will find a lot of deep learning resources, such as papers, datasets, interesting codes,etc..
 
 ## Content
 - [Papers](#papers)
