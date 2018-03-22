@@ -14,10 +14,12 @@ Here you will find a lot of resources for deep learning, such as papers, dataset
      - [2017 - The one hundred layers tiramisu: Fully convolutional densenets for semantic segmentation](https://arxiv.org/pdf/1611.09326.pdf)
      - [2016 - DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/pdf/1606.00915.pdf)
      - [2016 - Attention to scale: Scale-aware semantic image segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Chen_Attention_to_Scale_CVPR_2016_paper.pdf)
+     - [2016 - Enet: A deep neural network architecture for real-time semantic segmentation](https://arxiv.org/pdf/1606.02147.pdf)
      - [2015 - Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
 
 - Semantic segmentation (Medical images)
     - [2017 - Deep CNN ensembles and suggestive annotations for infant brain MRI segmentation](https://arxiv.org/pdf/1712.05319.pdf)
+    - [2016 - Voxresnet: Deep voxelwise residual networks for volumetric brain segmentation](https://arxiv.org/pdf/1608.05895.pdf)
     - [2015 - U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
 
 - Image classification
