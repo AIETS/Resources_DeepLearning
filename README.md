@@ -49,6 +49,7 @@ Here you will find a lot of deep learning resources, such as papers, datasets, i
 
 - General
     - [2017 - Recent advances in convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0031320317304120)
+    - [2017 - A Survey on Deep Learning in Medical Image Analysis](https://arxiv.org/pdf/1702.05747.pdf)
     
 ## Datasets
 - Natural images:
