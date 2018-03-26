@@ -65,3 +65,6 @@ Here you will find a lot of deep learning resources, such as papers, datasets, i
     
 
 ## Code
+
+## Others
+- [Semantic segmentation with DL](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
